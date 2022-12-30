@@ -127,12 +127,14 @@ h1{
 }
 .sett{
     width: 440px;
+    height: 350px;
     text-align: center;
     margin-bottom: 25px;
+    text-align: center;
 }
 .block11{
-    width: 500px;
-    height: 250px;  
+    width: 440px;
+    height: 150px;  
     margin-top:-2px; 
 }
 .photo11{
