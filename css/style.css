@@ -214,6 +214,9 @@ p{
   font-family: Arial;
   font: normal normal 500 13px/1.6 Arial;
 }
+.sps_h1{
+    font-size: 25px;
+}
 @media (min-width:700px) and (max-width: 1023px){
     .container{
         width: 100%;
